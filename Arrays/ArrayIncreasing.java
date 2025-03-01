@@ -1,3 +1,5 @@
+// problem >>  arrange the array in asc order
+
 import java.util.Scanner;
 
 public class ArrayIncreasing {

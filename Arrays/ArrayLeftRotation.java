@@ -1,3 +1,8 @@
+// Problem Statement: Given an array of n size, rotate the array by k elements using the Reversal Algorithm
+
+// Rotate the array to the left
+
+
 import java.util.Arrays;
 import java.util.Scanner;
 
